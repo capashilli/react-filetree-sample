@@ -1,0 +1,2816 @@
+{
+    "path": "/my-laptop/code/bootstrap-4-dev",
+    "name": "bootstrap-4-dev",
+    "type": "folder",
+    "children": [
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.babelrc.js",
+            "name": ".babelrc.js",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.browserslistrc",
+            "name": ".browserslistrc",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.editorconfig",
+            "name": ".editorconfig",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.eslintignore",
+            "name": ".eslintignore",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.eslintrc.json",
+            "name": ".eslintrc.json",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.gitattributes",
+            "name": ".gitattributes",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.github",
+            "name": ".github",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/.github/CODEOWNERS",
+                    "name": "CODEOWNERS",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/.github/CONTRIBUTING.md",
+                    "name": "CONTRIBUTING.md",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/.github/ISSUE_TEMPLATE",
+                    "name": "ISSUE_TEMPLATE",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/.github/ISSUE_TEMPLATE/bug.md",
+                            "name": "bug.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/.github/ISSUE_TEMPLATE/bug_report.md",
+                            "name": "bug_report.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/.github/ISSUE_TEMPLATE/feature.md",
+                            "name": "feature.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/.github/ISSUE_TEMPLATE/feature_request.md",
+                            "name": "feature_request.md",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/.github/SUPPORT.md",
+                    "name": "SUPPORT.md",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.gitignore",
+            "name": ".gitignore",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.stylelintignore",
+            "name": ".stylelintignore",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.stylelintrc",
+            "name": ".stylelintrc",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/.travis.yml",
+            "name": ".travis.yml",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/CNAME",
+            "name": "CNAME",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/CODE_OF_CONDUCT.md",
+            "name": "CODE_OF_CONDUCT.md",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/Gemfile",
+            "name": "Gemfile",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/Gemfile.lock",
+            "name": "Gemfile.lock",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/LICENSE",
+            "name": "LICENSE",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/README.md",
+            "name": "README.md",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/_config.yml",
+            "name": "_config.yml",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/build",
+            "name": "build",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/.eslintrc.json",
+                    "name": ".eslintrc.json",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/banner.js",
+                    "name": "banner.js",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/build-plugins.js",
+                    "name": "build-plugins.js",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/change-version.js",
+                    "name": "change-version.js",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/generate-sri.js",
+                    "name": "generate-sri.js",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/postcss.config.js",
+                    "name": "postcss.config.js",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/rollup.config.js",
+                    "name": "rollup.config.js",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/ship.sh",
+                    "name": "ship.sh",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/svgo.yml",
+                    "name": "svgo.yml",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/build/vnu-jar.js",
+                    "name": "vnu-jar.js",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/composer.json",
+            "name": "composer.json",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/dist",
+            "name": "dist",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/dist/css",
+                    "name": "css",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-grid.css",
+                            "name": "bootstrap-grid.css",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-grid.css.map",
+                            "name": "bootstrap-grid.css.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-grid.min.css",
+                            "name": "bootstrap-grid.min.css",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-grid.min.css.map",
+                            "name": "bootstrap-grid.min.css.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-reboot.css",
+                            "name": "bootstrap-reboot.css",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-reboot.css.map",
+                            "name": "bootstrap-reboot.css.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-reboot.min.css",
+                            "name": "bootstrap-reboot.min.css",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap-reboot.min.css.map",
+                            "name": "bootstrap-reboot.min.css.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap.css",
+                            "name": "bootstrap.css",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap.css.map",
+                            "name": "bootstrap.css.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap.min.css",
+                            "name": "bootstrap.min.css",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/css/bootstrap.min.css.map",
+                            "name": "bootstrap.min.css.map",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/dist/js",
+                    "name": "js",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.bundle.js",
+                            "name": "bootstrap.bundle.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.bundle.js.map",
+                            "name": "bootstrap.bundle.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.bundle.min.js",
+                            "name": "bootstrap.bundle.min.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.bundle.min.js.map",
+                            "name": "bootstrap.bundle.min.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.js",
+                            "name": "bootstrap.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.js.map",
+                            "name": "bootstrap.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.min.js",
+                            "name": "bootstrap.min.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/dist/js/bootstrap.min.js.map",
+                            "name": "bootstrap.min.js.map",
+                            "type": "file"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/js",
+            "name": "js",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/js/dist",
+                    "name": "dist",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/alert.js",
+                            "name": "alert.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/alert.js.map",
+                            "name": "alert.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/button.js",
+                            "name": "button.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/button.js.map",
+                            "name": "button.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/carousel.js",
+                            "name": "carousel.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/carousel.js.map",
+                            "name": "carousel.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/collapse.js",
+                            "name": "collapse.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/collapse.js.map",
+                            "name": "collapse.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/dropdown.js",
+                            "name": "dropdown.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/dropdown.js.map",
+                            "name": "dropdown.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/index.js",
+                            "name": "index.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/index.js.map",
+                            "name": "index.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/modal.js",
+                            "name": "modal.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/modal.js.map",
+                            "name": "modal.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/popover.js",
+                            "name": "popover.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/popover.js.map",
+                            "name": "popover.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/scrollspy.js",
+                            "name": "scrollspy.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/scrollspy.js.map",
+                            "name": "scrollspy.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/tab.js",
+                            "name": "tab.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/tab.js.map",
+                            "name": "tab.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/toast.js",
+                            "name": "toast.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/toast.js.map",
+                            "name": "toast.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/tooltip.js",
+                            "name": "tooltip.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/tooltip.js.map",
+                            "name": "tooltip.js.map",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/util.js",
+                            "name": "util.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/dist/util.js.map",
+                            "name": "util.js.map",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/js/src",
+                    "name": "src",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/alert.js",
+                            "name": "alert.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/button.js",
+                            "name": "button.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/carousel.js",
+                            "name": "carousel.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/collapse.js",
+                            "name": "collapse.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/dropdown.js",
+                            "name": "dropdown.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/index.js",
+                            "name": "index.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/modal.js",
+                            "name": "modal.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/popover.js",
+                            "name": "popover.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/scrollspy.js",
+                            "name": "scrollspy.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/tab.js",
+                            "name": "tab.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/toast.js",
+                            "name": "toast.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/tooltip.js",
+                            "name": "tooltip.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/src/util.js",
+                            "name": "util.js",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests",
+                    "name": "tests",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/tests/README.md",
+                            "name": "README.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/tests/browsers.js",
+                            "name": "browsers.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/tests/index.html",
+                            "name": "index.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/tests/integration",
+                            "name": "integration",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/integration/bundle.js",
+                                    "name": "bundle.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/integration/index.html",
+                                    "name": "index.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/integration/rollup.bundle.js",
+                                    "name": "rollup.bundle.js",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/tests/karma.conf.js",
+                            "name": "karma.conf.js",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit",
+                            "name": "unit",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/.eslintrc.json",
+                                    "name": ".eslintrc.json",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/alert.js",
+                                    "name": "alert.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/button.js",
+                                    "name": "button.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/carousel.js",
+                                    "name": "carousel.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/collapse.js",
+                                    "name": "collapse.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/dropdown.js",
+                                    "name": "dropdown.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/modal.js",
+                                    "name": "modal.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/popover.js",
+                                    "name": "popover.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/scrollspy.js",
+                                    "name": "scrollspy.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/tab.js",
+                                    "name": "tab.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/toast.js",
+                                    "name": "toast.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/tooltip.js",
+                                    "name": "tooltip.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/unit/util.js",
+                                    "name": "util.js",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual",
+                            "name": "visual",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/alert.html",
+                                    "name": "alert.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/button.html",
+                                    "name": "button.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/carousel.html",
+                                    "name": "carousel.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/collapse.html",
+                                    "name": "collapse.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/dropdown.html",
+                                    "name": "dropdown.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/modal.html",
+                                    "name": "modal.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/popover.html",
+                                    "name": "popover.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/scrollspy.html",
+                                    "name": "scrollspy.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/tab.html",
+                                    "name": "tab.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/toast.html",
+                                    "name": "toast.html",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/js/tests/visual/tooltip.html",
+                                    "name": "tooltip.html",
+                                    "type": "file"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/nuget",
+            "name": "nuget",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/nuget/MyGet.ps1",
+                    "name": "MyGet.ps1",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/nuget/bootstrap.nuspec",
+                    "name": "bootstrap.nuspec",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/nuget/bootstrap.sass.nuspec",
+                    "name": "bootstrap.sass.nuspec",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/package-lock.json",
+            "name": "package-lock.json",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/package.js",
+            "name": "package.js",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/package.json",
+            "name": "package.json",
+            "type": "file"
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/scss",
+            "name": "scss",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_alert.scss",
+                    "name": "_alert.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_badge.scss",
+                    "name": "_badge.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_breadcrumb.scss",
+                    "name": "_breadcrumb.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_button-group.scss",
+                    "name": "_button-group.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_buttons.scss",
+                    "name": "_buttons.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_card.scss",
+                    "name": "_card.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_carousel.scss",
+                    "name": "_carousel.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_close.scss",
+                    "name": "_close.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_code.scss",
+                    "name": "_code.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_custom-forms.scss",
+                    "name": "_custom-forms.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_dropdown.scss",
+                    "name": "_dropdown.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_forms.scss",
+                    "name": "_forms.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_functions.scss",
+                    "name": "_functions.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_grid.scss",
+                    "name": "_grid.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_images.scss",
+                    "name": "_images.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_input-group.scss",
+                    "name": "_input-group.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_jumbotron.scss",
+                    "name": "_jumbotron.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_list-group.scss",
+                    "name": "_list-group.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_media.scss",
+                    "name": "_media.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_mixins.scss",
+                    "name": "_mixins.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_modal.scss",
+                    "name": "_modal.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_nav.scss",
+                    "name": "_nav.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_navbar.scss",
+                    "name": "_navbar.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_pagination.scss",
+                    "name": "_pagination.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_popover.scss",
+                    "name": "_popover.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_print.scss",
+                    "name": "_print.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_progress.scss",
+                    "name": "_progress.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_reboot.scss",
+                    "name": "_reboot.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_root.scss",
+                    "name": "_root.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_spinners.scss",
+                    "name": "_spinners.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_tables.scss",
+                    "name": "_tables.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_toasts.scss",
+                    "name": "_toasts.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_tooltip.scss",
+                    "name": "_tooltip.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_transitions.scss",
+                    "name": "_transitions.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_type.scss",
+                    "name": "_type.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_utilities.scss",
+                    "name": "_utilities.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/_variables.scss",
+                    "name": "_variables.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/bootstrap-grid.scss",
+                    "name": "bootstrap-grid.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/bootstrap-reboot.scss",
+                    "name": "bootstrap-reboot.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/bootstrap.scss",
+                    "name": "bootstrap.scss",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins",
+                    "name": "mixins",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_alert.scss",
+                            "name": "_alert.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_background-variant.scss",
+                            "name": "_background-variant.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_badge.scss",
+                            "name": "_badge.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_border-radius.scss",
+                            "name": "_border-radius.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_box-shadow.scss",
+                            "name": "_box-shadow.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_breakpoints.scss",
+                            "name": "_breakpoints.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_buttons.scss",
+                            "name": "_buttons.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_caret.scss",
+                            "name": "_caret.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_clearfix.scss",
+                            "name": "_clearfix.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_deprecate.scss",
+                            "name": "_deprecate.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_float.scss",
+                            "name": "_float.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_forms.scss",
+                            "name": "_forms.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_gradients.scss",
+                            "name": "_gradients.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_grid-framework.scss",
+                            "name": "_grid-framework.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_grid.scss",
+                            "name": "_grid.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_hover.scss",
+                            "name": "_hover.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_image.scss",
+                            "name": "_image.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_list-group.scss",
+                            "name": "_list-group.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_lists.scss",
+                            "name": "_lists.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_nav-divider.scss",
+                            "name": "_nav-divider.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_pagination.scss",
+                            "name": "_pagination.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_reset-text.scss",
+                            "name": "_reset-text.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_resize.scss",
+                            "name": "_resize.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_screen-reader.scss",
+                            "name": "_screen-reader.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_size.scss",
+                            "name": "_size.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_table-row.scss",
+                            "name": "_table-row.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_text-emphasis.scss",
+                            "name": "_text-emphasis.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_text-hide.scss",
+                            "name": "_text-hide.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_text-truncate.scss",
+                            "name": "_text-truncate.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_transition.scss",
+                            "name": "_transition.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/mixins/_visibility.scss",
+                            "name": "_visibility.scss",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities",
+                    "name": "utilities",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_align.scss",
+                            "name": "_align.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_background.scss",
+                            "name": "_background.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_borders.scss",
+                            "name": "_borders.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_clearfix.scss",
+                            "name": "_clearfix.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_display.scss",
+                            "name": "_display.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_embed.scss",
+                            "name": "_embed.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_flex.scss",
+                            "name": "_flex.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_float.scss",
+                            "name": "_float.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_overflow.scss",
+                            "name": "_overflow.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_position.scss",
+                            "name": "_position.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_screenreaders.scss",
+                            "name": "_screenreaders.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_shadows.scss",
+                            "name": "_shadows.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_sizing.scss",
+                            "name": "_sizing.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_spacing.scss",
+                            "name": "_spacing.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_stretched-link.scss",
+                            "name": "_stretched-link.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_text.scss",
+                            "name": "_text.scss",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/scss/utilities/_visibility.scss",
+                            "name": "_visibility.scss",
+                            "type": "file"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "/my-laptop/code/bootstrap-4-dev/site",
+            "name": "site",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/.eslintrc.json",
+                    "name": ".eslintrc.json",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/_data",
+                    "name": "_data",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/breakpoints.yml",
+                            "name": "breakpoints.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/browser-bugs.yml",
+                            "name": "browser-bugs.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/browser-features.yml",
+                            "name": "browser-features.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/colors.yml",
+                            "name": "colors.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/core-team.yml",
+                            "name": "core-team.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/docs-versions.yml",
+                            "name": "docs-versions.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/examples.yml",
+                            "name": "examples.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/grays.yml",
+                            "name": "grays.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/nav.yml",
+                            "name": "nav.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/theme-colors.yml",
+                            "name": "theme-colors.yml",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_data/translations.yml",
+                            "name": "translations.yml",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes",
+                    "name": "_includes",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/ads.html",
+                            "name": "ads.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/analytics.html",
+                            "name": "analytics.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/bugify.html",
+                            "name": "bugify.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/callout-danger-async-methods.md",
+                            "name": "callout-danger-async-methods.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/callout-info-mediaqueries-breakpoints.md",
+                            "name": "callout-info-mediaqueries-breakpoints.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/callout-info-prefersreducedmotion.md",
+                            "name": "callout-info-prefersreducedmotion.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/callout-warning-color-assistive-technologies.md",
+                            "name": "callout-warning-color-assistive-technologies.md",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/callout.html",
+                            "name": "callout.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/docs-navbar.html",
+                            "name": "docs-navbar.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/docs-sidebar.html",
+                            "name": "docs-sidebar.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/example.html",
+                            "name": "example.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/favicons.html",
+                            "name": "favicons.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/footer.html",
+                            "name": "footer.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/header.html",
+                            "name": "header.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons",
+                            "name": "icons",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/bootstrap-stack.svg",
+                                    "name": "bootstrap-stack.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/bootstrap.svg",
+                                    "name": "bootstrap.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/download.svg",
+                                    "name": "download.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/github.svg",
+                                    "name": "github.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/import.svg",
+                                    "name": "import.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/lightning.svg",
+                                    "name": "lightning.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/menu.svg",
+                                    "name": "menu.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/opencollective.svg",
+                                    "name": "opencollective.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/placeholder.svg",
+                                    "name": "placeholder.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/slack.svg",
+                                    "name": "slack.svg",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/icons/twitter.svg",
+                                    "name": "twitter.svg",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/scripts.html",
+                            "name": "scripts.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/skippy.html",
+                            "name": "skippy.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/social.html",
+                            "name": "social.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_includes/stylesheet.html",
+                            "name": "stylesheet.html",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/_layouts",
+                    "name": "_layouts",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_layouts/default.html",
+                            "name": "default.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_layouts/docs.html",
+                            "name": "docs.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_layouts/examples.html",
+                            "name": "examples.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_layouts/home.html",
+                            "name": "home.html",
+                            "type": "file"
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/_layouts/simple.html",
+                            "name": "simple.html",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs",
+                    "name": "docs",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2",
+                            "name": "4.2",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/about",
+                                    "name": "about",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/about/brand.md",
+                                            "name": "brand.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/about/license.md",
+                                            "name": "license.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/about/overview.md",
+                                            "name": "overview.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/about/team.md",
+                                            "name": "team.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/about/translations.md",
+                                            "name": "translations.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets",
+                                    "name": "assets",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/brand",
+                                            "name": "brand",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/brand/bootstrap-outline.svg",
+                                                    "name": "bootstrap-outline.svg",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/brand/bootstrap-punchout.svg",
+                                                    "name": "bootstrap-punchout.svg",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/brand/bootstrap-social-logo.png",
+                                                    "name": "bootstrap-social-logo.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/brand/bootstrap-social.png",
+                                                    "name": "bootstrap-social.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/brand/bootstrap-solid.svg",
+                                                    "name": "bootstrap-solid.svg",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/css",
+                                            "name": "css",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/css/docs.min.css",
+                                                    "name": "docs.min.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/css/docs.min.css.map",
+                                                    "name": "docs.min.css.map",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img",
+                                            "name": "img",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/bootstrap-themes.png",
+                                                    "name": "bootstrap-themes.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/bootstrap-themes@2x.png",
+                                                    "name": "bootstrap-themes@2x.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples",
+                                                    "name": "examples",
+                                                    "type": "folder",
+                                                    "children": [
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/album.png",
+                                                            "name": "album.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/album@2x.png",
+                                                            "name": "album@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/blog.png",
+                                                            "name": "blog.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/blog@2x.png",
+                                                            "name": "blog@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/carousel.png",
+                                                            "name": "carousel.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/carousel@2x.png",
+                                                            "name": "carousel@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/checkout.png",
+                                                            "name": "checkout.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/checkout@2x.png",
+                                                            "name": "checkout@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/cover.png",
+                                                            "name": "cover.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/cover@2x.png",
+                                                            "name": "cover@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/dashboard.png",
+                                                            "name": "dashboard.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/dashboard@2x.png",
+                                                            "name": "dashboard@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/floating-labels.png",
+                                                            "name": "floating-labels.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/floating-labels@2x.png",
+                                                            "name": "floating-labels@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/grid.png",
+                                                            "name": "grid.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/grid@2x.png",
+                                                            "name": "grid@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/jumbotron.png",
+                                                            "name": "jumbotron.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/jumbotron@2x.png",
+                                                            "name": "jumbotron@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbar-bottom.png",
+                                                            "name": "navbar-bottom.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbar-bottom@2x.png",
+                                                            "name": "navbar-bottom@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbar-fixed.png",
+                                                            "name": "navbar-fixed.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbar-fixed@2x.png",
+                                                            "name": "navbar-fixed@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbar-static.png",
+                                                            "name": "navbar-static.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbar-static@2x.png",
+                                                            "name": "navbar-static@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbars.png",
+                                                            "name": "navbars.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/navbars@2x.png",
+                                                            "name": "navbars@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/offcanvas.png",
+                                                            "name": "offcanvas.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/offcanvas@2x.png",
+                                                            "name": "offcanvas@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/pricing.png",
+                                                            "name": "pricing.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/pricing@2x.png",
+                                                            "name": "pricing@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/product.png",
+                                                            "name": "product.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/product@2x.png",
+                                                            "name": "product@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/sign-in.png",
+                                                            "name": "sign-in.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/sign-in@2x.png",
+                                                            "name": "sign-in@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/starter-template.png",
+                                                            "name": "starter-template.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/starter-template@2x.png",
+                                                            "name": "starter-template@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/sticky-footer-navbar.png",
+                                                            "name": "sticky-footer-navbar.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/sticky-footer-navbar@2x.png",
+                                                            "name": "sticky-footer-navbar@2x.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/sticky-footer.png",
+                                                            "name": "sticky-footer.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/examples/sticky-footer@2x.png",
+                                                            "name": "sticky-footer@2x.png",
+                                                            "type": "file"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons",
+                                                    "name": "favicons",
+                                                    "type": "folder",
+                                                    "children": [
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/android-chrome-192x192.png",
+                                                            "name": "android-chrome-192x192.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/android-chrome-512x512.png",
+                                                            "name": "android-chrome-512x512.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/apple-touch-icon.png",
+                                                            "name": "apple-touch-icon.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/browserconfig.xml",
+                                                            "name": "browserconfig.xml",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/favicon-16x16.png",
+                                                            "name": "favicon-16x16.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/favicon-32x32.png",
+                                                            "name": "favicon-32x32.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/manifest.json",
+                                                            "name": "manifest.json",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/mstile-144x144.png",
+                                                            "name": "mstile-144x144.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/mstile-150x150.png",
+                                                            "name": "mstile-150x150.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/mstile-310x150.png",
+                                                            "name": "mstile-310x150.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/mstile-310x310.png",
+                                                            "name": "mstile-310x310.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/mstile-70x70.png",
+                                                            "name": "mstile-70x70.png",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/img/favicons/safari-pinned-tab.svg",
+                                                            "name": "safari-pinned-tab.svg",
+                                                            "type": "file"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js",
+                                            "name": "js",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/docs.min.js",
+                                                    "name": "docs.min.js",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/src",
+                                                    "name": "src",
+                                                    "type": "folder",
+                                                    "children": [
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/src/application.js",
+                                                            "name": "application.js",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/src/ie-emulation-modes-warning.js",
+                                                            "name": "ie-emulation-modes-warning.js",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/src/search.js",
+                                                            "name": "search.js",
+                                                            "type": "file"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/vendor",
+                                                    "name": "vendor",
+                                                    "type": "folder",
+                                                    "children": [
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/vendor/anchor.min.js",
+                                                            "name": "anchor.min.js",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/vendor/bs-custom-file-input.min.js",
+                                                            "name": "bs-custom-file-input.min.js",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/vendor/clipboard.min.js",
+                                                            "name": "clipboard.min.js",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/js/vendor/jquery-slim.min.js",
+                                                            "name": "jquery-slim.min.js",
+                                                            "type": "file"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss",
+                                            "name": "scss",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_ads.scss",
+                                                    "name": "_ads.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_algolia.scss",
+                                                    "name": "_algolia.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_anchor.scss",
+                                                    "name": "_anchor.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_brand.scss",
+                                                    "name": "_brand.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_browser-bugs.scss",
+                                                    "name": "_browser-bugs.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_buttons.scss",
+                                                    "name": "_buttons.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_callouts.scss",
+                                                    "name": "_callouts.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_clipboard-js.scss",
+                                                    "name": "_clipboard-js.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_colors.scss",
+                                                    "name": "_colors.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_component-examples.scss",
+                                                    "name": "_component-examples.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_content.scss",
+                                                    "name": "_content.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_footer.scss",
+                                                    "name": "_footer.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_masthead.scss",
+                                                    "name": "_masthead.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_nav.scss",
+                                                    "name": "_nav.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_placeholder-img.scss",
+                                                    "name": "_placeholder-img.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_sidebar.scss",
+                                                    "name": "_sidebar.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_skippy.scss",
+                                                    "name": "_skippy.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_syntax.scss",
+                                                    "name": "_syntax.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/_variables.scss",
+                                                    "name": "_variables.scss",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/assets/scss/docs.scss",
+                                                    "name": "docs.scss",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/browser-bugs.md",
+                                    "name": "browser-bugs.md",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components",
+                                    "name": "components",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/alerts.md",
+                                            "name": "alerts.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/badge.md",
+                                            "name": "badge.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/breadcrumb.md",
+                                            "name": "breadcrumb.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/button-group.md",
+                                            "name": "button-group.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/buttons.md",
+                                            "name": "buttons.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/card.md",
+                                            "name": "card.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/carousel.md",
+                                            "name": "carousel.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/collapse.md",
+                                            "name": "collapse.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/dropdowns.md",
+                                            "name": "dropdowns.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/forms.md",
+                                            "name": "forms.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/input-group.md",
+                                            "name": "input-group.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/jumbotron.md",
+                                            "name": "jumbotron.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/list-group.md",
+                                            "name": "list-group.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/media-object.md",
+                                            "name": "media-object.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/modal.md",
+                                            "name": "modal.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/navbar.md",
+                                            "name": "navbar.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/navs.md",
+                                            "name": "navs.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/pagination.md",
+                                            "name": "pagination.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/popovers.md",
+                                            "name": "popovers.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/progress.md",
+                                            "name": "progress.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/scrollspy.md",
+                                            "name": "scrollspy.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/spinners.md",
+                                            "name": "spinners.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/toasts.md",
+                                            "name": "toasts.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/components/tooltips.md",
+                                            "name": "tooltips.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/content",
+                                    "name": "content",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/content/code.md",
+                                            "name": "code.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/content/figures.md",
+                                            "name": "figures.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/content/images.md",
+                                            "name": "images.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/content/reboot.md",
+                                            "name": "reboot.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/content/tables.md",
+                                            "name": "tables.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/content/typography.md",
+                                            "name": "typography.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples",
+                                    "name": "examples",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/.stylelintrc",
+                                            "name": ".stylelintrc",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/album",
+                                            "name": "album",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/album/album.css",
+                                                    "name": "album.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/album/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/blog",
+                                            "name": "blog",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/blog/blog.css",
+                                                    "name": "blog.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/blog/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/carousel",
+                                            "name": "carousel",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/carousel/carousel.css",
+                                                    "name": "carousel.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/carousel/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/checkout",
+                                            "name": "checkout",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/checkout/form-validation.css",
+                                                    "name": "form-validation.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/checkout/form-validation.js",
+                                                    "name": "form-validation.js",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/checkout/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/cover",
+                                            "name": "cover",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/cover/cover.css",
+                                                    "name": "cover.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/cover/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/dashboard",
+                                            "name": "dashboard",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/dashboard/dashboard.css",
+                                                    "name": "dashboard.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/dashboard/dashboard.js",
+                                                    "name": "dashboard.js",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/dashboard/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/floating-labels",
+                                            "name": "floating-labels",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/floating-labels/floating-labels.css",
+                                                    "name": "floating-labels.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/floating-labels/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/grid",
+                                            "name": "grid",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/grid/grid.css",
+                                                    "name": "grid.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/grid/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/index.html",
+                                            "name": "index.html",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/jumbotron",
+                                            "name": "jumbotron",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/jumbotron/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/jumbotron/jumbotron.css",
+                                                    "name": "jumbotron.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-bottom",
+                                            "name": "navbar-bottom",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-bottom/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-fixed",
+                                            "name": "navbar-fixed",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-fixed/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-fixed/navbar-top-fixed.css",
+                                                    "name": "navbar-top-fixed.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-static",
+                                            "name": "navbar-static",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-static/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbar-static/navbar-top.css",
+                                                    "name": "navbar-top.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbars",
+                                            "name": "navbars",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbars/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/navbars/navbar.css",
+                                                    "name": "navbar.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/offcanvas",
+                                            "name": "offcanvas",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/offcanvas/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/offcanvas/offcanvas.css",
+                                                    "name": "offcanvas.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/offcanvas/offcanvas.js",
+                                                    "name": "offcanvas.js",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/pricing",
+                                            "name": "pricing",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/pricing/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/pricing/pricing.css",
+                                                    "name": "pricing.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/product",
+                                            "name": "product",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/product/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/product/product.css",
+                                                    "name": "product.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sign-in",
+                                            "name": "sign-in",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sign-in/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sign-in/signin.css",
+                                                    "name": "signin.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/starter-template",
+                                            "name": "starter-template",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/starter-template/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/starter-template/starter-template.css",
+                                                    "name": "starter-template.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sticky-footer",
+                                            "name": "sticky-footer",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sticky-footer/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sticky-footer/sticky-footer.css",
+                                                    "name": "sticky-footer.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sticky-footer-navbar",
+                                            "name": "sticky-footer-navbar",
+                                            "type": "folder",
+                                            "children": [
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sticky-footer-navbar/index.html",
+                                                    "name": "index.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/examples/sticky-footer-navbar/sticky-footer-navbar.css",
+                                                    "name": "sticky-footer-navbar.css",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/extend",
+                                    "name": "extend",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/extend/approach.md",
+                                            "name": "approach.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/extend/icons.md",
+                                            "name": "icons.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started",
+                                    "name": "getting-started",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/accessibility.md",
+                                            "name": "accessibility.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/best-practices.md",
+                                            "name": "best-practices.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/browsers-devices.md",
+                                            "name": "browsers-devices.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/build-tools.md",
+                                            "name": "build-tools.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/contents.md",
+                                            "name": "contents.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/download.md",
+                                            "name": "download.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/introduction.md",
+                                            "name": "introduction.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/javascript.md",
+                                            "name": "javascript.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/theming.md",
+                                            "name": "theming.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/getting-started/webpack.md",
+                                            "name": "webpack.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/layout",
+                                    "name": "layout",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/layout/grid.md",
+                                            "name": "grid.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/layout/overview.md",
+                                            "name": "overview.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/layout/utilities-for-layout.md",
+                                            "name": "utilities-for-layout.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/migration.md",
+                                    "name": "migration.md",
+                                    "type": "file"
+                                },
+                                {
+                                    "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities",
+                                    "name": "utilities",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/borders.md",
+                                            "name": "borders.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/clearfix.md",
+                                            "name": "clearfix.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/close-icon.md",
+                                            "name": "close-icon.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/colors.md",
+                                            "name": "colors.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/display.md",
+                                            "name": "display.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/embed.md",
+                                            "name": "embed.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/flex.md",
+                                            "name": "flex.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/float.md",
+                                            "name": "float.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/image-replacement.md",
+                                            "name": "image-replacement.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/overflow.md",
+                                            "name": "overflow.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/position.md",
+                                            "name": "position.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/screenreaders.md",
+                                            "name": "screenreaders.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/shadows.md",
+                                            "name": "shadows.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/sizing.md",
+                                            "name": "sizing.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/spacing.md",
+                                            "name": "spacing.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/stretched-link.md",
+                                            "name": "stretched-link.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/text.md",
+                                            "name": "text.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/vertical-align.md",
+                                            "name": "vertical-align.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/4.2/utilities/visibility.md",
+                                            "name": "visibility.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "path": "/my-laptop/code/bootstrap-4-dev/site/docs/versions.html",
+                            "name": "versions.html",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/favicon.ico",
+                    "name": "favicon.ico",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/index.html",
+                    "name": "index.html",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/robots.txt",
+                    "name": "robots.txt",
+                    "type": "file"
+                },
+                {
+                    "path": "/my-laptop/code/bootstrap-4-dev/site/sw.js",
+                    "name": "sw.js",
+                    "type": "file"
+                }
+            ]
+        }
+    ]
+}
